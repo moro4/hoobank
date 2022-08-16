@@ -7,6 +7,6 @@ export { default as FeedbackCard } from './FeedbackCard';
 export { default as Footer } from './Footer';
 export { default as GetStarted } from './GetStarted';
 export { default as Hero } from './Hero';
-export { default as Navbar } from './NavBar';
+export { default as Navbar } from './Navbar';
 export { default as Stats } from './Stats';
 export { default as Testimonials } from './Testimonials';
