@@ -31,7 +31,6 @@ function App() {
                <Clients />
                <CTA />
                <FeedbackCard />
-               <GetStarted />
                <Footer />
             </div>
          </div>
