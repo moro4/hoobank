@@ -5,7 +5,7 @@ import Button from './Button';
 
 function FeatureCard ({icon, title, content, index}) {
    return (
-      <div className='flex flex-row rounded-[20px] p-6 space-y-6 feature-card'>
+      <div className='flex flex-row rounded-[20px] p-6 space-x-6 feature-card'>
 
          <div className={styles.flexCenter + 'bg-dimBlue w-[64px] h-[64px]\
             rounded-full'}
